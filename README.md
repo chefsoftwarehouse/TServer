@@ -2,8 +2,6 @@
 TCP Server/ Client Scripts
 
 
-Updated 17 seconds ago
-
 Tserver is a threaded echo test server written in python3. It passes command like arguments to a TCP socket hosted on loopback. 
 Tserver requies the standard python3 library and is being releases for people who are new to python and networking.
 
@@ -24,4 +22,4 @@ Entering a string such as "hello" will echo back to the client
 
 
 TServer is a great base script that can be quickly modified into a File Server, Port Scanner, or Command and Control Server.
-***Warning*** TServer is not encrypted........yet.
+***Warning*** TServer is not encrypted.
